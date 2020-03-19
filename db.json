@@ -1,0 +1,83 @@
+{
+  "kemeja": [
+    {
+      "name": "Kemeja 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Kemeja 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Kemeja 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Kemeja 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Kemeja 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Kemeja 6",
+      "price": "35.000"
+    }
+  ],
+  "kaos": [
+    {
+      "name": "Kaos 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Kaos 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Kaos 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Kaos 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Kaos 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Kaos 6",
+      "price": "35.000"
+    }
+  ],
+  "jaket": [
+    {
+      "name": "Jaket 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Jaket 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Jaket 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Jaket 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Jaket 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Jaket 6",
+      "price": "35.000"
+    }
+  ],
+  "dodolan": {
+    "name": "dodolan"
+  }
+}
